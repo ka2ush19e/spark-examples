@@ -169,3 +169,12 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
+
+# Spark SQL
+metastore_db/
+
+# Spark Streaming
+checkpoint/
+
+# Output
+output*/
